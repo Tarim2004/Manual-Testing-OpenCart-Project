@@ -102,37 +102,30 @@ This repository includes:
 
 Requirement Analysis
         │
-        ▼
 Test Planning
         │
-        ▼
 Test Scenario Design
         │
-        ▼
 Test Case Creation
         │
-        ▼
 Test Execution
         │
-        ▼
 Bug Reporting
         │
-        ▼
 Retesting
         │
-        ▼
 Regression Testing
 
 ----------------------------------------------------------------------------------------------------------------------
 
 # Deliverables
 
-* ✔ Test Plan
-* ✔ Test Scenarios
-* ✔ Test Cases
-* ✔ Bug Reports
-* ✔ RTM
-* ✔ Test Data
+*  Test Plan
+*  Test Scenarios
+*  Test Cases
+*  Bug Reports
+*  RTM
+*  Test Data
 
 ----------------------------------------------------------------------------------------------------------------------
 
