@@ -27,7 +27,7 @@ The primary goal is to verify that the core functionalities of the OpenCart appl
 
 ----------------------------------------------------------------------------------------------------------------------
 
-# 📋 Scope of Testing
+# Scope of Testing
 
 The following modules were tested:
 
@@ -47,7 +47,7 @@ The following modules were tested:
 
 ----------------------------------------------------------------------------------------------------------------------
 
-# 🧪 Types of Testing Performed
+# Types of Testing Performed
 
 * Functional Testing
 * Smoke Testing
